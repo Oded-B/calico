@@ -1,6 +1,6 @@
 ---
 title: Contribution Guidelines
-redirect_from: latest/reference/contribute
+no_canonical: true
 ---
 
 Features or any changes to the codebase should be done as follows:

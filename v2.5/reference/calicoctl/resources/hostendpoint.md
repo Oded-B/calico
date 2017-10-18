@@ -1,6 +1,5 @@
 ---
 title: Host Endpoint Resource (hostEndpoint)
-redirect_from: latest/reference/calicoctl/resources/hostendpoint
 ---
 
 A Host Endpoint resource (hostEndpoint) represents an interface attached to a host that is running Calico.
@@ -34,7 +33,7 @@ spec:
   - profile2
 ```
 
-### HostEndoint Definition
+### HostEndpoint Definition
 
 #### Metadata
 
